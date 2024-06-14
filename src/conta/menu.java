@@ -87,7 +87,7 @@ public class menu {
 		System.out.println("\n*********************************************************");
 		System.out.println("Projeto Desenvolvido por: ");
 		System.out.println("Ruth Rojas - ruthrojasdasilva12@gmail.com");
-		System.out.println("github.com/conteudoGeneration");
+		System.out.println("https://github.com/Rojinhas/Atividade-Conta-Bancaria-");
 		System.out.println("*********************************************************");
 	}
 
